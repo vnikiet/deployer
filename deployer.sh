@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 RELEASES_PATH=./releases
-NUM_KEPT_RELEASES=5
+NUM_KEPT_RELEASES=2
 
 init() {
   mkdir -p $RELEASES_PATH
